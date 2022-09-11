@@ -28,9 +28,9 @@ function Header() {
         A simple emoji search tool made with ReactJS.
       </p>
       <p className="github">
-        <GitHubButton href="https://github.com/BraydenTW/react-emoji-search" data-color-scheme={`no-preference: ${theme}; light: ${theme}; dark: ${theme};`} data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star BraydenTW/react-emoji-search on GitHub">Star</GitHubButton>
+        <GitHubButton href="https://github.com/sideedgetech/Emoji-Searcher" data-color-scheme={`no-preference: ${theme}; light: ${theme}; dark: ${theme};`} data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star sideedgetech/Emoji-Searcher on GitHub">Star</GitHubButton>
         &nbsp;&nbsp;
-        <GitHubButton href="https://github.com/BraydenTW/react-emoji-search/fork" data-color-scheme={`no-preference: ${theme}; light: ${theme}; dark: ${theme};`} data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork BraydenTW/react-emoji-search on GitHub">Fork</GitHubButton>
+        <GitHubButton href="https://github.com/sideedgetech/Emoji-Searcher/fork" data-color-scheme={`no-preference: ${theme}; light: ${theme}; dark: ${theme};`} data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork sideedgetech/Emoji-Searcher on GitHub">Fork</GitHubButton>
       </p>
 
       <div className="container">
